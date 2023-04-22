@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\bin\Debug\Test_Sefer_Seyahat.exe.config
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\bin\Debug\Test_Sefer_Seyahat.exe
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\bin\Debug\Test_Sefer_Seyahat.pdb
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.Form1.resources
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.exe
+C:\Users\ASUS\Desktop\Software\Project\Test_Sefer_Seyahat\Test_Sefer_Seyahat\obj\Debug\Test_Sefer_Seyahat.pdb
